@@ -1,0 +1,11 @@
+UoN Final-Year Project Guidelines
+
+A final-year Computer Science project should identify a clear problem, define objectives, review relevant work, design and implement a solution, and evaluate the resulting system.
+
+Students normally begin by selecting a project area and preparing a proposal. The proposal should explain the problem, motivation, objectives, proposed approach, expected outputs and an initial plan.
+
+The project should demonstrate meaningful application of software engineering and computing concepts. Students should be able to explain their design decisions and provide evidence that the implemented solution addresses the stated objectives.
+
+The final project report should document the problem, related work, methodology, system design, implementation, evaluation, results, limitations and conclusions. Students should also maintain appropriate technical documentation and source-code records.
+
+Students should confirm specific departmental deadlines, assessment requirements and submission procedures with the relevant department or course instructor because these may change.

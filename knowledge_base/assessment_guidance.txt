@@ -1,0 +1,9 @@
+Student Project Assessment Guidance
+
+Project assessment considers whether the student has clearly defined the problem, selected an appropriate technical approach, implemented a meaningful solution and evaluated the result.
+
+A strong evaluation should use evidence rather than simply claiming that the system works. Depending on the project, evidence can include functional tests, performance measurements, usability feedback, accuracy measurements or comparisons with a baseline.
+
+Students should be prepared to explain what they built, why they selected their approach, what limitations remain, and what could be improved in future work.
+
+Assessment schedules and exact marking criteria should be confirmed from the current departmental instructions.

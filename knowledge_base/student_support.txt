@@ -1,0 +1,12 @@
+Computer Science Student Support
+
+Students working on final-year projects are encouraged to discuss their proposed scope and technical approach with their project supervisor.
+
+Useful early questions include:
+What problem am I solving?
+Who experiences the problem?
+What evidence shows the problem exists?
+What is the smallest useful version I can build?
+How will I evaluate whether the solution works?
+
+For software projects, students should consider source control, testing, documentation, security and reproducibility from the beginning rather than leaving these activities until the end.
