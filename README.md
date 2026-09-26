@@ -52,7 +52,7 @@ The script:
 7. Sends the question + retrieved context to the LLM
 8. Prints the answer and source filenames
 
-## 5. Classroom questions
+## 5. Test questions
 
 Try:
 - What are the requirements for the final-year project?
@@ -63,6 +63,6 @@ Try:
 
 The last question demonstrates that RAG can still fail when the source corpus does not contain the answer.
 
-## Important teaching note
+## Important note
 
-This is a teaching demo, not a production architecture. In production you would add authentication, authorization, better document parsing, metadata filters, evaluation, monitoring, retries, rate-limit handling, secrets management and protection against prompt injection/data poisoning.
+This is a mini demo, not a production architecture. In production you would add authentication, authorization, better document parsing, metadata filters, evaluation, monitoring, retries, rate-limit handling, secrets management and protection against prompt injection/data poisoning.
